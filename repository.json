@@ -17,7 +17,7 @@
     },
     "resources": {
         "sha256": "c52e5bead1cffc1b650bc0015eb2a9aef9e54b9ab74fdd2f67fe1cf72a5c9364",
-        "update_time_utc": " 2022-03-13 17:04:27",
+        "update_time_utc": "2022-03-13 17:04:27",
         "update_timestamp": 1647158667,
         "url": "https://github.com/g200kg/kicad-pcm-repository/raw/main/resources.zip"
     }
