@@ -1,0 +1,24 @@
+{
+    "$schema": "https://gitlab.com/kicad/code/kicad/-/raw/master/kicad/pcm/schemas/pcm.v1.schema.json#/definitions/Repository",
+    "maintainer": {
+        "name": "g200kg",
+        "contact": {
+            "email": "gaito@g200kg.com",
+            "web": "https://www.g200kg.com",
+            "twitter": "@g200kg"
+        }
+    },
+    "name": "g200kg KiCad PCM repository",
+    "packages": {
+        "sha256": "962508f4ada1a67d3fc5f81fea1deddd175ac2492bf7798559bbf5a5086a4b6a",
+        "update_time_utc": "2022-03-10 06:11:33",
+        "update_timestamp": 1646892693,
+        "url": "https://raw.githubusercontent.com/g200kg/kicad-pcm-repository/main/packages.json"
+    },
+    "resources": {
+        "sha256": "7e035e43f934b74adc440889c0df06aa227dbd6febab162b245b72f2a80eb985",
+        "update_time_utc": "2021-12-09 08:03:00",
+        "update_timestamp": 1639033380,
+        "url": "https://github.com/g200kg/kicad-pcm-repository/raw/main/resources.zip"
+    }
+}
