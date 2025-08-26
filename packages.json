@@ -185,6 +185,20 @@
             "license":"MIT",
             "versions":[
                 {
+                    "version": "2.0.1",
+                    "kicad_version": "9.0",
+                    "platforms": [
+                        "linux",
+                        "macos",
+                        "windows"
+                    ],
+                    "status": "development",
+                    "download_url": "https://raw.githubusercontent.com/g200kg/kicad-gerberzipper2/c3357bd46b7270b218974933abeedbd2e0ccdff6/pcmpackage-gerberzipper2.zip",
+                    "download_size": 39385,
+                    "download_sha256": "637793c781c30a7b1e4c0c04ce1e73f45595d9a32e62893dc4db8376a4c86a23",
+                    "install_size": 111613
+                },
+                {
                     "version": "2.0.0",
                     "kicad_version": "9.0",
                     "platforms": [
