@@ -187,6 +187,7 @@
                 {
                     "version": "2.0.4",
                     "kicad_version": "9.0",
+                    "runtime": "ipc",
                     "platforms": [
                         "linux",
                         "macos",
@@ -201,6 +202,7 @@
                 {
                     "version": "2.0.3",
                     "kicad_version": "9.0",
+                    "runtime": "ipc",
                     "platforms": [
                         "linux",
                         "macos",
@@ -215,6 +217,7 @@
                 {
                     "version": "2.0.2",
                     "kicad_version": "9.0",
+                    "runtime": "ipc",
                     "platforms": [
                         "linux",
                         "macos",
@@ -229,6 +232,7 @@
                 {
                     "version": "2.0.1",
                     "kicad_version": "9.0",
+                    "runtime": "ipc",
                     "platforms": [
                         "linux",
                         "macos",
@@ -243,6 +247,7 @@
                 {
                     "version": "2.0.0",
                     "kicad_version": "9.0",
+                    "runtime": "ipc",
                     "platforms": [
                         "linux",
                         "macos",
