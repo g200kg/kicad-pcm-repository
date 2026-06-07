@@ -158,10 +158,10 @@
         },
         {
             "$schema": "https://go.kicad.org/pcm/schemas/v1",
-            "name": "GerberZipper2 (Beta)",
-            "description": "Generate Gerber/ZIP  for the specified PCB vendor (IPC API)",
-            "description_full": "Generate Gerber-files for the specified PCB vendor and Zip it.",
             "identifier":"com.github.g200kg.kicad-gerberzipper2",
+            "name": "Gerber Zipper 2",
+            "description": "Generate Gerbers/ZIP/BOM/POS for PCB Manufacturers",
+            "description_full": "Generate Gerbers/ZIP/BOM/POS for PCB Manufacturers.",
             "type":"plugin",
             "author": {
                 "contact":{
@@ -184,7 +184,7 @@
             },
             "license":"MIT",
             "versions":[
-                 {
+                {
                     "version": "2.0.5",
                     "kicad_version": "9.0",
                     "runtime": "ipc",
@@ -194,10 +194,10 @@
                         "windows"
                     ],
                     "status": "stable",
-                    "download_url":"https://raw.githubusercontent.com/g200kg/kicad-gerberzipper2/1eef7cbaeabc30d7951224d881f4c54a45074763/pcmpackage-gerberzipper2-v2.0.5.zip",
-                    "download_size":33574,
-                    "download_sha256":"1ce369310d93da5108fa6149a2ef37611a3ab52f9200c5633d9ecdd2b60b5877",
-                    "install_size":92182
+                    "download_url":"https://raw.githubusercontent.com/g200kg/kicad-gerberzipper2/789752bc81d86d16097a1efc9acb11d0252fc460/pcmpackage-gerberzipper2-v2.0.5.zip",
+                    "download_size":33554,
+                    "download_sha256":"d3dee76bad6be31593865c5b0786a9d25b3b09f0427a31c1328dda88bd336b4d",
+                    "install_size":92142
                 },
                 {
                     "version": "2.0.4",
