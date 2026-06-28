@@ -10,9 +10,9 @@
     },
     "name": "g200kg KiCad PCM repository",
     "packages": {
-        "sha256": "2cb44dba39ece4a402a433ecf0bd8a908f95d89c63ecb79a2076f18f30592d3a",
-        "update_time_utc": "2026-06-28 07:46:23",
-        "update_timestamp": 1782600383,
+        "sha256": "9ed4afc31bcda87e098f75db883072404786e2554b58d9987a8f518fea05da88",
+        "update_time_utc": "2026-06-28 16:06:27",
+        "update_timestamp": 1782630387,
         "url": "https://raw.githubusercontent.com/g200kg/kicad-pcm-repository/main/packages.json"
     },
     "resources": {

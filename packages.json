@@ -194,10 +194,10 @@
                         "windows"
                     ],
                     "status": "stable",
-                    "download_url":"https://raw.githubusercontent.com/g200kg/kicad-gerberzipper2/848456b1928808191fba9185b6cf3b89951359c8/pcmpackage-gerberzipper2-v2.0.7.zip",
-                    "download_size":38974,
-                    "download_sha256":"18be3b58de57cafa9d670ee1dab7ca76e74be503f9e64b4af68d5fbab5df95ae",
-                    "install_size":113250
+                    "download_url":"https://raw.githubusercontent.com/g200kg/kicad-gerberzipper2/dfbf76244fb5098675124501c1fcb880d0276167/pcmpackage-gerberzipper2-v2.0.7.zip",
+                    "download_size":38925,
+                    "download_sha256":"5229baa3685eb1c854e176151fa294235894bf4918511aeed7bd7bf106a5bae1",
+                    "install_size":113119
                 },
                 {
                     "version": "2.0.6",
